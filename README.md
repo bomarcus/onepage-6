@@ -8,3 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # onepage-6
 # onepage-6
+
+## git add .
+## git commit -m "comment"
+## git push origin main
